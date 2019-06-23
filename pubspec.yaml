@@ -23,7 +23,7 @@ dependencies:
   firebase_core:
   agora_rtc_engine:
   firebase_auth:
-  permission_handle:
+  permission_handler:
   file_picker:
   firebase_storage:
   flutter_downloader:
