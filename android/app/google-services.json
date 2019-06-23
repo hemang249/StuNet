@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996517160076",
+    "firebase_url": "https://stunet-8f7b3.firebaseio.com",
+    "project_id": "stunet-8f7b3",
+    "storage_bucket": "stunet-8f7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996517160076:android:ec237d88c6db2b40",
+        "android_client_info": {
+          "package_name": "com.example.stunet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996517160076-gj0e4v18k324iom5n3eoi2lpt5esapeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stunet",
+            "certificate_hash": "3feebb8536234bf88ab1c4e5339cf1203ba8fdf6"
+          }
+        },
+        {
+          "client_id": "996517160076-b11685sv6q9238ful3bmk3006addvo1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzPKHtoyoePBbwjbGcRszSpbQ2k3b2X4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996517160076-b11685sv6q9238ful3bmk3006addvo1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
